@@ -2,3 +2,5 @@ What Is Cybersecurity?
 Cybersecurity is the practice of protecting computers, servers, networks, mobile devices, and data from digital attacks, theft, or damage. These attacks are usually carried out by hackers or malicious programs to steal sensitive information, disrupt systems, or gain unauthorized access.
 
 Think of cybersecurity as a digital version of security guards, locks, and CCTV cameras—but instead of protecting your home or office, it protects your online world.
+
+Another change
